@@ -4,13 +4,13 @@
 
 🎓 I'm currently studying Mechanical Engineering at UFSC (Federal University of Santa Catarina).
 
-🐍 I have a passion for Python programming and enjoy exploring its various applications.
+🔍 I'm always looking for the "why" behind how things happen.
 
 ### Interests
 
 🔧 Mechanical Engineering
 
-💻 Python
+💻 Programming
 
 📚 Learning: I'm always looking to expand my knowledge
 
