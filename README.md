@@ -12,7 +12,7 @@
 
 💻 Programming
 
-📚 Learning: I'm always looking to expand my knowledge
+📚 Learning
 
 
 ### Fun Fact
