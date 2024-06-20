@@ -15,14 +15,6 @@
 📚 Learning
 
 
-### Fun Fact
-
-🌌 I'm fascinated by space exploration and technology .
-
-
-
-### 📫 How to reach me 
-marcusvscrispim@gmail.com
 
 
 <!---
