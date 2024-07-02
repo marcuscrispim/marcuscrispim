@@ -1,10 +1,5 @@
 # 👋 Hi, I’m @marcuscrispim
 
-### About Me
-
-🎓 I'm currently studying Mechanical Engineering at UFSC (Federal University of Santa Catarina).
-
-🔍 I'm always looking for the "why" behind how things happen.
 
 ### Interests
 
